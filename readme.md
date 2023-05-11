@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-#	[Swedish Election result predictor] (https://github.com/LM2621/SwedishElectionResultEstimator)
+#	[Swedish Election result predictor](https://github.com/LM2621/SwedishElectionResultEstimator)
 * An attempt at creating a model that predicts the most popular party per municipality in the swedish elections 2022, 
 * 75% accuracy
 
