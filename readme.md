@@ -2,6 +2,7 @@
 
 #	[Swedish Election result predictor](https://github.com/LM2621/SwedishElectionResultEstimator)
 * An attempt at creating a model that predicts the most popular party per municipality in the swedish elections 2022, 
+* Using data from SCB's statistics database: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/
 * 75% accuracy
 
 #	[Energy price estimator](https://github.com/LM2621/energyPriceIncreaseEstimator)
