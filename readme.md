@@ -5,6 +5,11 @@
 * Using data from SCB's statistics database: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/
 * 75% accuracy
 
+#	[IMDB review classifier](https://github.com/LM2621/IMDB-review-classifier)
+* A model that classifies IMDB moview reviews as either positive or negative overall 
+* Uses the labeled dataset 'imdb' from huggingface
+* 85% accuracy 
+
 #	[Energy price estimator](https://github.com/LM2621/energyPriceIncreaseEstimator)
 * An attempt at estimating the price increase of household energy from 2nd semester 2020 to 2nd semester 2022 in european countries looking at the energy sources (wind, solar, coal, etc.) of said country
 * Using data from: https://ourworldindata.org/energy-mix and https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table?lang=EN
