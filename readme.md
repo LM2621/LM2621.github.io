@@ -7,7 +7,7 @@
 * 75% accuracy
 
 #	[IMDB review classifier](https://github.com/LM2621/IMDB-review-classifier)
-* A model that classifies IMDB moview reviews as either positive or negative overall 
+* An NLP model that classifies IMDB movie-reviews as either positive or negative overall 
 * Uses the labeled dataset 'imdb' from huggingface
 * 85% accuracy 
 
